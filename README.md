@@ -8,7 +8,7 @@ Predicting with deep RNN and new headlines:
 
 https://bcourses.berkeley.edu/files/70257274/download
 
-Predicting with echo RNN
+Predicting with Echo State Network RNN
 
 http://cs229.stanford.edu/proj2012/BernalFokPidaparthi-FinancialMarketTimeSeriesPredictionwithRecurrentNeural.pdf
 
