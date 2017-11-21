@@ -8,6 +8,10 @@ Predicting with deep RNN and new headlines:
 
 https://bcourses.berkeley.edu/files/70257274/download
 
+Predicting with echo RNN
+
+http://cs229.stanford.edu/proj2012/BernalFokPidaparthi-FinancialMarketTimeSeriesPredictionwithRecurrentNeural.pdf
+
 Tutorials:
 
 SVM & shallow motheds: http://francescopochetti.com/stock-market-prediction-part-introduction/
