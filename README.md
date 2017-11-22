@@ -4,6 +4,8 @@ https://people.kth.se/~gyozo/docs/financial-prediction.pdf
 
 https://link.springer.com/chapter/10.1007/978-3-319-13560-1_60
 
+https://mospace.umsystem.edu/xmlui/bitstream/handle/10355/56058/research.pdf?sequence=2&isAllowed=y
+
 Predicting with deep RNN and new headlines:
 
 https://bcourses.berkeley.edu/files/70257274/download
